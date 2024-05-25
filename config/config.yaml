@@ -6,3 +6,17 @@ data_ingestion:
   source_URL: https://github.com/Yogesh3454/images/raw/main/Chicken-fecal-images.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
