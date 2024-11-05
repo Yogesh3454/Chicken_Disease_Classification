@@ -1,7 +1,5 @@
 # Chicken_Disease_Classification
 
-# Chicken-Disease-Classification--Project
-
 ## Project Overview
   This project aims to classify images of chickens to detect coccidiosis, a common parasitic disease, using a Convolutional Neural Network (CNN) architecture. For this task, we used VGG16, a pre-trained deep learning model, fine-tuning it for our specific dataset. This project can help identify early signs of coccidiosis, aiding poultry farmers in disease management.
 
